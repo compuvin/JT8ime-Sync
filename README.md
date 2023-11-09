@@ -69,7 +69,7 @@ Updating is simple, just download the updated file and replace the old one:
 - [ ] Support JTDX
 - [ ] Make process faster and/or more accurate
 
-See the [open issues](https://github.com/compuvin/SoftwareMatrix/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/compuvin/jt8ime-sync/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
